@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_error_boundaries/static/css/main.518285e2.css",
+    "main.js": "/react_error_boundaries/static/js/main.974702b8.js",
+    "static/js/787.8e239c37.chunk.js": "/react_error_boundaries/static/js/787.8e239c37.chunk.js",
+    "index.html": "/react_error_boundaries/index.html",
+    "main.518285e2.css.map": "/react_error_boundaries/static/css/main.518285e2.css.map",
+    "main.974702b8.js.map": "/react_error_boundaries/static/js/main.974702b8.js.map",
+    "787.8e239c37.chunk.js.map": "/react_error_boundaries/static/js/787.8e239c37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.518285e2.css",
+    "static/js/main.974702b8.js"
+  ]
+}
